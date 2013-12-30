@@ -95,6 +95,10 @@ pre {
         margin-right: 0px;
     }
 
+.avatar {
+    border-radius: 100px;
+}
+
 .header-article {
     width: 767px;
     max-width: 100%;
