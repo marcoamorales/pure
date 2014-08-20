@@ -129,10 +129,12 @@ pre {
 
 .tagline {
     margin-top: -15px;
-    line-height: 0.8em;
+    margin-left: 15px;
+    margin-right: 15px;
     font-size: 80%;
     text-shadow: 0 1px 3px rgba(0,0,0,0.3);
     color: #fff;
+    line-height: 1.25em;
 }
 
 .social {
