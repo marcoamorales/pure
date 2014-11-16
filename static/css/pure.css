@@ -139,6 +139,7 @@ pre {
     text-shadow: 0 1px 3px rgba(0,0,0,0.3);
     color: #fff;
     line-height: 1.25em;
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
 }
 
 .social {
@@ -177,6 +178,7 @@ pre {
     font-size: 100%;
     line-height: 1.45;
     color: #333332;
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
 }
 
 .post {
@@ -280,7 +282,7 @@ pre {
 }
 
 .highlight pre {
-    font-size: 75%;
+    font-size: 90%;
 }
 
 /* LAYOUT CSS */
